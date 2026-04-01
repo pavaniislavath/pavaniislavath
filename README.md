@@ -15,6 +15,9 @@
   <a href="https://github.com">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://drive.google.com/file/d/1ttStPdxCOopxoQnLEYZK1lYK_7otFewN/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -115,4 +118,4 @@
 <p align="center">
   <i>"Innovative mindset applied to design, development, and problem-solving tasks."</i><br><br>
   📬 Reach me at <a href="mailto:pavaniislavath209@gmail.com">pavaniislavath209@gmail.com</a> · 📞 +91-8008053013
-</p>
+</p>s
